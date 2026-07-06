@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS pillowtalk;
+CREATE DATABASE pillowtalk;
 
 CREATE TABLE users (
     user_id SERIAL PRIMARY KEY,
